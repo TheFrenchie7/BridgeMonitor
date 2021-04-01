@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using BridgeMonitor.Models;
 
+
 namespace BridgeMonitor.Controllers
 {
     public class HomeController : Controller
